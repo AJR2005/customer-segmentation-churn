@@ -1,0 +1,35 @@
+{
+  "cleaning": {
+    "raw_rows": 541909,
+    "after_dropping_guest_checkouts": 406829,
+    "after_dropping_cancellations": 397924,
+    "after_dropping_non_product_lines": 396470,
+    "final_rows": 391283
+  },
+  "churn_model": {
+    "model": "Logistic Regression",
+    "test_auc": 0.74,
+    "cv_auc": 0.758,
+    "precision": 0.589,
+    "recall": 0.763,
+    "base_churn_rate": 0.43,
+    "top_decile_churn_rate": 0.682,
+    "top_decile_lift": 1.59,
+    "top_20pct_share_of_churners": 0.308,
+    "top_30pct_share_of_churners": 0.452
+  },
+  "churn_by_segment": {
+    "Champions": 0.175,
+    "Loyal Customers": 0.337,
+    "New / Promising": 0.507,
+    "Needs Attention": 0.563,
+    "At Risk": 0.544,
+    "Can't Lose Them": 0.429,
+    "Hibernating": 0.653
+  },
+  "winback_counts": {
+    "Low": 2337,
+    "Medium": 1766,
+    "High": 231
+  }
+}

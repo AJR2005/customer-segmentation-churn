@@ -1,0 +1,8 @@
+,Customers,90-day churn rate,Goal,Campaign idea,Channel
+Champions,1178,17%,Reward & advocate,"Early access to new collections, referral programme, ask for reviews",Email + loyalty
+Loyal Customers,639,34%,Upsell & deepen,"Personalised bundles, cross-sell from purchase history, tier upgrade",Email
+New / Promising,400,51%,Onboard,"Welcome series, second-order incentive, bestseller recommendations",Email + retargeting
+Needs Attention,393,56%,Re-engage,Limited-time offer on previously viewed categories,Email + retargeting
+At Risk,185,54%,Win back,"Personal 'we miss you' message, free shipping, new-arrival preview",Email + paid social
+Can't Lose Them,347,43%,Urgent win back,"Account-manager call, exclusive offer, feedback survey",Phone + email
+Hibernating,1192,65%,Low-cost reactivation,Seasonal campaign only; suppress if no response to save send volume,Email (low frequency)
