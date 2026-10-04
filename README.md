@@ -12,7 +12,7 @@ Customer segmentation and churn prediction for a UK online gift retailer, built 
 | Segments | 7 RFM marketing segments, cross-checked with K-Means (k = 4) |
 | Biggest finding | **Champions are 27% of customers but 70% of spend**, and they have the lowest churn rate (17%) |
 | Churn model | Logistic Regression, **out-of-time ROC-AUC 0.74** (5-fold CV 0.76) |
-| Targeting | The 40% of customers the model rates riskiest churn at **63%** (average 43%) and include **59% of all churners**. The 30% it rates safest churn at only **16%** |
+| Targeting | The 40% of customers the model rates riskiest churn at **64%** (average 43%) and include **59% of all churners**. The 30% it rates safest churn at only **16%** |
 | Output | A segment playbook plus a ranked win-back list of **231 high-priority customers** |
 
 ## Approach
